@@ -1,0 +1,53 @@
+#headerLogo{
+  height: 40px;
+  width: 60px;
+
+}
+#headerLink{
+  padding: 5px;
+}
+nav{
+  background-color:#fbf9f3;
+}
+i{
+  font-size: 20px;
+}
+h1{
+  text-align: center;
+  font-size: 45px;
+  padding: 20px;
+  margin-top: 0;
+  font-weight: bold;
+  color: #eadddd;
+  font-family: 'Corben', cursive;
+}
+
+
+h3{
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: 'Vast Shadow', cursive;
+}
+h4{
+  font-family: 'Corben', cursive;
+}
+
+.thumbnail{
+  border-color: grey;
+}
+.items{
+  background-image: url(../img/woodwall.jpg);
+
+}
+.caption{
+  color: white;
+  background-color: #d8c7af;
+}
+/*.pictures{
+  height: 30px;
+  width: 250px;
+}
+.thumbnail{
+  height: 450px;
+}*/
